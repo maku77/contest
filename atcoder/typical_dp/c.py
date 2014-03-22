@@ -48,5 +48,4 @@ def solve(K, R):
         print('{:.9f}'.format(x))
 
 if __name__ == '__main__':
-    K, R = read_problem()
-    solve(K, R)
+    solve(*read_problem())

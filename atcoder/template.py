@@ -17,5 +17,4 @@ def solve(A, B):
     print(A, B)
 
 if __name__ == '__main__':
-    A, B = read_problem()
-    solve(A, B)
+    solve(*read_problem())
