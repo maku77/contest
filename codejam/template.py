@@ -1,9 +1,11 @@
 #!/usr/bin/env python
+# vim: set fileencoding=utf-8 :
 import sys
 def read_line(): return sys.stdin.readline().strip()
 def read_int(): return int(sys.stdin.readline())
 def read_ints(): return [int(x) for x in sys.stdin.readline().split()]
 def arr2d(y,x,init=0): return [[init] * x for _ in range(y)]
+INF = float('inf')
 
 def solve():
     # Read a problem
