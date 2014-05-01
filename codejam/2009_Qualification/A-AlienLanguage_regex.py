@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Contest: Google Code Jam - 2009 Qualification Round
+#  vim: set fileencoding=utf8 :
 # Problem: A. Alien Language
 # URL: https://code.google.com/codejam/contest/90101/dashboard#s=p0
 # Author: Masatoshi Ohta
